@@ -1,0 +1,101 @@
+exception_id,shipment_id,exception_type,severity,detected_date,resolution_time_hours,resolved,agent_node,resolution_dimension
+EXC_0001,SHP_0071,Inventory Shortage,Low,2024-03-31,56,True,Auditor Node,Cost
+EXC_0002,SHP_0008,Damaged Goods,Critical,2024-05-11,21,True,Context Retrieval Node,Speed
+EXC_0003,SHP_0093,Customs Hold,Low,2024-03-01,47,True,Auditor Node,Cost
+EXC_0004,SHP_0196,Delay,Medium,2024-04-05,57,False,Auditor Node,Cost
+EXC_0005,SHP_0064,Delay,Low,2024-06-15,36,True,Auditor Node,Sustainability
+EXC_0006,SHP_0031,Weather Disruption,High,2024-04-09,72,False,Context Retrieval Node,Sustainability
+EXC_0007,SHP_0052,Delay,Medium,2024-03-14,63,True,Auditor Node,Speed
+EXC_0008,SHP_0175,Weather Disruption,High,2024-04-23,12,True,Execution Node,Sustainability
+EXC_0009,SHP_0041,Inventory Shortage,Medium,2024-03-15,39,False,Execution Node,Speed
+EXC_0010,SHP_0036,Damaged Goods,Critical,2024-02-01,26,True,Strategy Generation Node,Sustainability
+EXC_0011,SHP_0120,Carrier Failure,Medium,2024-05-26,48,True,Monitoring Node,Cost
+EXC_0012,SHP_0135,Customs Hold,Critical,2024-04-11,62,True,Context Retrieval Node,Cost
+EXC_0013,SHP_0116,Customs Hold,High,2024-06-13,10,True,Execution Node,Sustainability
+EXC_0014,SHP_0197,Damaged Goods,Critical,2024-05-30,24,True,Monitoring Node,Sustainability
+EXC_0015,SHP_0043,Damaged Goods,High,2024-02-09,39,True,Strategy Generation Node,Sustainability
+EXC_0016,SHP_0065,Damaged Goods,High,2024-03-13,11,True,Strategy Generation Node,Sustainability
+EXC_0017,SHP_0129,Inventory Shortage,Medium,2024-05-16,12,True,Context Retrieval Node,Sustainability
+EXC_0018,SHP_0145,Delay,Low,2024-06-08,44,True,Monitoring Node,Sustainability
+EXC_0019,SHP_0167,Damaged Goods,Critical,2024-05-27,34,True,Auditor Node,Sustainability
+EXC_0020,SHP_0165,Weather Disruption,Critical,2024-05-19,38,True,Auditor Node,Cost
+EXC_0021,SHP_0177,Delay,Medium,2024-04-26,10,False,Auditor Node,Cost
+EXC_0022,SHP_0088,Carrier Failure,Medium,2024-04-28,27,False,Strategy Generation Node,Sustainability
+EXC_0023,SHP_0034,Weather Disruption,Low,2024-03-29,52,False,Context Retrieval Node,Cost
+EXC_0024,SHP_0116,Damaged Goods,Medium,2024-02-01,35,True,Monitoring Node,Cost
+EXC_0025,SHP_0064,Damaged Goods,High,2024-04-08,54,False,Context Retrieval Node,Speed
+EXC_0026,SHP_0120,Customs Hold,High,2024-05-07,66,False,Monitoring Node,Speed
+EXC_0027,SHP_0118,Damaged Goods,Medium,2024-04-10,65,False,Monitoring Node,Speed
+EXC_0028,SHP_0153,Inventory Shortage,Critical,2024-03-13,64,False,Execution Node,Speed
+EXC_0029,SHP_0035,Weather Disruption,High,2024-01-28,56,False,Strategy Generation Node,Speed
+EXC_0030,SHP_0146,Carrier Failure,Medium,2024-04-12,7,False,Execution Node,Cost
+EXC_0031,SHP_0130,Customs Hold,High,2024-01-19,50,True,Context Retrieval Node,Speed
+EXC_0032,SHP_0087,Carrier Failure,High,2024-04-10,48,True,Context Retrieval Node,Sustainability
+EXC_0033,SHP_0129,Delay,Low,2024-05-10,52,True,Context Retrieval Node,Sustainability
+EXC_0034,SHP_0133,Customs Hold,Medium,2024-03-26,61,True,Strategy Generation Node,Sustainability
+EXC_0035,SHP_0101,Carrier Failure,High,2024-03-22,21,False,Execution Node,Sustainability
+EXC_0036,SHP_0182,Carrier Failure,High,2024-05-16,63,False,Monitoring Node,Cost
+EXC_0037,SHP_0107,Carrier Failure,High,2024-03-25,15,True,Execution Node,Cost
+EXC_0038,SHP_0185,Delay,Critical,2024-03-08,30,True,Execution Node,Sustainability
+EXC_0039,SHP_0038,Inventory Shortage,Medium,2024-06-07,49,True,Execution Node,Sustainability
+EXC_0040,SHP_0005,Customs Hold,High,2024-01-29,25,False,Context Retrieval Node,Cost
+EXC_0041,SHP_0106,Carrier Failure,Critical,2024-06-25,27,True,Context Retrieval Node,Sustainability
+EXC_0042,SHP_0084,Inventory Shortage,Critical,2024-02-23,72,False,Strategy Generation Node,Speed
+EXC_0043,SHP_0088,Carrier Failure,High,2024-04-27,69,False,Execution Node,Cost
+EXC_0044,SHP_0072,Carrier Failure,High,2024-02-19,32,True,Strategy Generation Node,Cost
+EXC_0045,SHP_0177,Inventory Shortage,Critical,2024-06-29,27,False,Auditor Node,Cost
+EXC_0046,SHP_0074,Delay,Critical,2024-05-23,36,False,Strategy Generation Node,Speed
+EXC_0047,SHP_0074,Inventory Shortage,Low,2024-03-15,6,False,Auditor Node,Sustainability
+EXC_0048,SHP_0055,Damaged Goods,High,2024-03-06,62,False,Context Retrieval Node,Speed
+EXC_0049,SHP_0063,Delay,Medium,2024-06-06,31,True,Monitoring Node,Speed
+EXC_0050,SHP_0184,Customs Hold,Low,2024-04-15,43,True,Monitoring Node,Sustainability
+EXC_0051,SHP_0168,Customs Hold,Critical,2024-02-10,53,True,Strategy Generation Node,Cost
+EXC_0052,SHP_0197,Delay,Medium,2024-03-14,8,True,Context Retrieval Node,Cost
+EXC_0053,SHP_0102,Customs Hold,Medium,2024-02-15,5,False,Monitoring Node,Speed
+EXC_0054,SHP_0086,Weather Disruption,Critical,2024-03-17,14,False,Context Retrieval Node,Sustainability
+EXC_0055,SHP_0050,Delay,High,2024-04-29,35,True,Auditor Node,Sustainability
+EXC_0056,SHP_0004,Inventory Shortage,High,2024-03-06,24,False,Execution Node,Sustainability
+EXC_0057,SHP_0157,Inventory Shortage,Critical,2024-02-19,23,False,Execution Node,Cost
+EXC_0058,SHP_0172,Delay,Medium,2024-01-23,52,True,Auditor Node,Cost
+EXC_0059,SHP_0067,Customs Hold,Medium,2024-03-04,1,False,Strategy Generation Node,Cost
+EXC_0060,SHP_0067,Inventory Shortage,High,2024-03-18,2,True,Monitoring Node,Sustainability
+EXC_0061,SHP_0079,Damaged Goods,Critical,2024-01-31,60,False,Monitoring Node,Sustainability
+EXC_0062,SHP_0158,Damaged Goods,Medium,2024-03-16,48,True,Auditor Node,Speed
+EXC_0063,SHP_0107,Inventory Shortage,Critical,2024-04-26,48,True,Context Retrieval Node,Sustainability
+EXC_0064,SHP_0135,Customs Hold,High,2024-06-01,11,True,Execution Node,Speed
+EXC_0065,SHP_0130,Damaged Goods,Medium,2024-01-16,71,True,Strategy Generation Node,Sustainability
+EXC_0066,SHP_0175,Damaged Goods,Critical,2024-04-23,15,True,Execution Node,Cost
+EXC_0067,SHP_0034,Carrier Failure,Critical,2024-01-15,59,False,Execution Node,Speed
+EXC_0068,SHP_0173,Weather Disruption,Low,2024-05-23,60,False,Strategy Generation Node,Speed
+EXC_0069,SHP_0012,Customs Hold,High,2024-02-25,10,True,Execution Node,Speed
+EXC_0070,SHP_0009,Weather Disruption,Critical,2024-01-18,61,True,Context Retrieval Node,Sustainability
+EXC_0071,SHP_0096,Customs Hold,Critical,2024-06-14,54,False,Auditor Node,Speed
+EXC_0072,SHP_0035,Inventory Shortage,High,2024-06-23,70,True,Context Retrieval Node,Sustainability
+EXC_0073,SHP_0033,Inventory Shortage,Medium,2024-04-10,68,True,Monitoring Node,Cost
+EXC_0074,SHP_0109,Carrier Failure,Critical,2024-04-28,70,True,Context Retrieval Node,Cost
+EXC_0075,SHP_0071,Damaged Goods,Low,2024-03-29,20,True,Auditor Node,Sustainability
+EXC_0076,SHP_0053,Delay,Low,2024-01-05,31,True,Auditor Node,Sustainability
+EXC_0077,SHP_0063,Inventory Shortage,Low,2024-06-21,7,False,Auditor Node,Speed
+EXC_0078,SHP_0194,Delay,Medium,2024-05-18,28,False,Context Retrieval Node,Sustainability
+EXC_0079,SHP_0148,Carrier Failure,High,2024-05-27,41,True,Strategy Generation Node,Speed
+EXC_0080,SHP_0057,Customs Hold,High,2024-06-18,67,False,Monitoring Node,Sustainability
+EXC_0081,SHP_0161,Inventory Shortage,Critical,2024-05-31,23,False,Monitoring Node,Cost
+EXC_0082,SHP_0135,Weather Disruption,Critical,2024-06-13,49,False,Context Retrieval Node,Cost
+EXC_0083,SHP_0194,Carrier Failure,Critical,2024-04-06,24,True,Context Retrieval Node,Cost
+EXC_0084,SHP_0015,Carrier Failure,Critical,2024-02-06,60,False,Execution Node,Sustainability
+EXC_0085,SHP_0063,Weather Disruption,Medium,2024-02-04,50,False,Monitoring Node,Cost
+EXC_0086,SHP_0138,Inventory Shortage,Medium,2024-04-04,12,True,Strategy Generation Node,Cost
+EXC_0087,SHP_0019,Damaged Goods,Medium,2024-06-21,6,False,Context Retrieval Node,Cost
+EXC_0088,SHP_0055,Damaged Goods,Low,2024-03-18,2,False,Context Retrieval Node,Sustainability
+EXC_0089,SHP_0102,Damaged Goods,High,2024-06-03,27,False,Auditor Node,Cost
+EXC_0090,SHP_0079,Weather Disruption,High,2024-05-16,46,False,Auditor Node,Speed
+EXC_0091,SHP_0053,Weather Disruption,High,2024-04-30,41,False,Monitoring Node,Sustainability
+EXC_0092,SHP_0005,Weather Disruption,Critical,2024-02-26,19,False,Context Retrieval Node,Speed
+EXC_0093,SHP_0098,Carrier Failure,Medium,2024-03-25,30,False,Execution Node,Sustainability
+EXC_0094,SHP_0066,Customs Hold,Critical,2024-06-24,44,False,Context Retrieval Node,Sustainability
+EXC_0095,SHP_0036,Inventory Shortage,Critical,2024-03-31,22,True,Execution Node,Sustainability
+EXC_0096,SHP_0009,Delay,Low,2024-01-16,68,True,Auditor Node,Speed
+EXC_0097,SHP_0018,Inventory Shortage,Medium,2024-06-10,30,True,Context Retrieval Node,Sustainability
+EXC_0098,SHP_0016,Carrier Failure,Critical,2024-04-26,48,False,Monitoring Node,Speed
+EXC_0099,SHP_0106,Delay,Low,2024-05-16,71,False,Execution Node,Cost
+EXC_0100,SHP_0179,Inventory Shortage,Critical,2024-01-05,65,True,Monitoring Node,Speed
